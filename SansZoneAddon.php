@@ -29,7 +29,7 @@ namespace JackMD\ScoreHud\Addons
 		 */
 		public function getProcessedTags(Player $player): array{
 			return [
-				"{zona}"   => $this->land->onCheckLand($player)
+				"{zone}"   => $this->land->onCheckLand($player)
 			];
 		}
 	}
