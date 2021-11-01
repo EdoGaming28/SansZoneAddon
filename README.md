@@ -2,4 +2,4 @@
 a plugin like Sans SMP S5 for plugin Scorehud
 
 # Tags
-{zona}
+{zone} -> to get (Wilderness/Safe_Zone)
